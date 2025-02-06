@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": [
+    "Repo config for renovate. See https://github.com/theros-org/renovate-config"
+  ],
+  "extends": [
+    "theros-org/renovate-config:automerge-all"
+  ]
+}
